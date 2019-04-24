@@ -1,13 +1,1 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANCAO NOVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS RELIGIOSOS",CANCAO NOVA SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6173
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="NOVO TEMPO SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/novotempo.png" group-title="CANAIS RELIGIOSOS",NOVO TEMPO SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6948
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redevida.png" group-title="CANAIS RELIGIOSOS",REDE VIDA SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6939
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redevida.png" group-title="CANAIS RELIGIOSOS",REDE VIDA SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20576
-#EXTINF:-1 tvg-id="RIT" tvg-name="RIT SD" tvg-logo="http://www.rittv.com.br/themes/rittv/images/logomarca-rittv.png" group-title="CANAIS RELIGIOSOS",RIT SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20578
-#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV EVANGELIZAR SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/rec-19.png" group-title="CANAIS RELIGIOSOS",TV EVANGELIZAR SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6206
+?
